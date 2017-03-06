@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<amlns:menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:amlns="http://schemas.android.com/apk/res-auto"
+            xmlns:apps="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/menu_item_new_todo"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/new_todo"
+        apps:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/menu_item_show_subtitle"
+        android:title="@string/show_subtitle"
+        apps:showAsAction="ifRoom"/>
+
+</amlns:menu>

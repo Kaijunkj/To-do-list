@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-do List</string>
+    <string name="todo_hint">Description</string>
+    <string name="todo_title_label">List out your job</string>
+    <string name="todo_detail_label">Job done ?</string>
+    <string name="todo_checked_label">Yes !</string>
+    <string name="date_picker_title">Date</string>
+    <string name="new_todo">Add new job</string>
+    <string name="show_subtitle">Show Detail</string>
+    <string name="hide_subtitle">Hide Detail</string>
+    <string name="subtitle_format">Total %1s Job(s)</string>
+</resources>
